@@ -5,6 +5,9 @@
 ##### The Fifth
 ###### And last but not least the sixth
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 I've experimented with the different Headers! 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
